@@ -1,3 +1,5 @@
+package 좌표정렬하기;
+
 import java.io.*;
 import java.util.*;
 
